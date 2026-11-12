@@ -1,0 +1,9 @@
+{
+  "name": "placement-assistant-gen-ai-internship",
+  "version": "1.0.0",
+  "description": "GenAI Assistant for Company Hiring Insights and Role-Fit Preparation",
+  "scripts": {
+    "postinstall": "cd server && npm install",
+    "start": "cd server && node server.js"
+  }
+}
